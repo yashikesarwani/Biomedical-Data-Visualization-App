@@ -1,0 +1,500 @@
+GENE_SYMBOL	GENE_NAME	GENE_TYPE
+A1BG	alpha-1-B glycoprotein	protein-coding
+A2M	alpha-2-macroglobulin	protein-coding
+A2MP1	alpha-2-macroglobulin pseudogene 1	pseudo
+NAT1	N-acetyltransferase 1	protein-coding
+NAT2	N-acetyltransferase 2	protein-coding
+NATP	N-acetyltransferase pseudogene	pseudo
+SERPINA3	serpin family A member 3	protein-coding
+AADAC	arylacetamide deacetylase	protein-coding
+AAMP	angio associated migratory cell protein	protein-coding
+AANAT	aralkylamine N-acetyltransferase	protein-coding
+AARS	alanyl-tRNA synthetase	protein-coding
+AAVS1	adeno-associated virus integration site 1	other
+ABAT	4-aminobutyrate aminotransferase	protein-coding
+ABCA1	ATP binding cassette subfamily A member 1	protein-coding
+ABCA2	ATP binding cassette subfamily A member 2	protein-coding
+ABCA3	ATP binding cassette subfamily A member 3	protein-coding
+ABCB7	ATP binding cassette subfamily B member 7	protein-coding
+ABCF1	ATP binding cassette subfamily F member 1	protein-coding
+ABCA4	ATP binding cassette subfamily A member 4	protein-coding
+ABL1	ABL proto-oncogene 1, non-receptor tyrosine kinase	protein-coding
+AOC1	amine oxidase copper containing 1	protein-coding
+ABL2	ABL proto-oncogene 2, non-receptor tyrosine kinase	protein-coding
+ABO	ABO, alpha 1-3-N-acetylgalactosaminyltransferase and alpha 1-3-galactosyltransferase	protein-coding
+ABR	ABR activator of RhoGEF and GTPase	protein-coding
+ACAA1	acetyl-CoA acyltransferase 1	protein-coding
+ACACA	acetyl-CoA carboxylase alpha	protein-coding
+ACACB	acetyl-CoA carboxylase beta	protein-coding
+ACADL	acyl-CoA dehydrogenase long chain	protein-coding
+ACADM	acyl-CoA dehydrogenase medium chain	protein-coding
+ACADS	acyl-CoA dehydrogenase short chain	protein-coding
+ACADSB	acyl-CoA dehydrogenase short/branched chain	protein-coding
+ACADVL	acyl-CoA dehydrogenase very long chain	protein-coding
+ACAT1	acetyl-CoA acetyltransferase 1	protein-coding
+ACAT2	acetyl-CoA acetyltransferase 2	protein-coding
+ASIC2	acid sensing ion channel subunit 2	protein-coding
+ASIC1	acid sensing ion channel subunit 1	protein-coding
+ACHE	acetylcholinesterase (Cartwright blood group)	protein-coding
+ACLS	acrocallosal syndrome	unknown
+ACLY	ATP citrate lyase	protein-coding
+ACO1	aconitase 1	protein-coding
+ACR	acrosin	protein-coding
+ACO2	aconitase 2	protein-coding
+ACOX1	acyl-CoA oxidase 1	protein-coding
+ACP1	acid phosphatase 1	protein-coding
+ACP2	acid phosphatase 2, lysosomal	protein-coding
+ACP5	acid phosphatase 5, tartrate resistant	protein-coding
+ACPP	acid phosphatase, prostate	protein-coding
+ACRV1	acrosomal vesicle protein 1	protein-coding
+ACTA1	actin alpha 1, skeletal muscle	protein-coding
+ACTA2	actin alpha 2, smooth muscle	protein-coding
+ACTB	actin beta	protein-coding
+ACTBP2	ACTB pseudogene 2	pseudo
+ACTBP3	ACTB pseudogene 3	pseudo
+ACTBP4	ACTB pseudogene 4	pseudo
+ACTBP6	ACTB pseudogene 6	pseudo
+ACTBP7	ACTB pseudogene 7	pseudo
+ACTBP8	ACTB pseudogene 8	pseudo
+ACTBP9	ACTB pseudogene 9	pseudo
+ACTC1	actin alpha cardiac muscle 1	protein-coding
+ACTG1	actin gamma 1	protein-coding
+ACTG2	actin gamma 2, smooth muscle	protein-coding
+ACTG1P1	actin gamma 1 pseudogene 1	pseudo
+ACTG1P2	actin gamma 1 pseudogene 2	pseudo
+ACTG1P3	actin gamma 1 pseudogene 3	pseudo
+ACTG1P6	actin gamma 1 pseudogene 6	pseudo
+ACTG1P7	actin gamma 1 pseudogene 7	pseudo
+ACTG1P8	actin gamma 1 pseudogene 8	pseudo
+ACTN4	actinin alpha 4	protein-coding
+ACTG1P9	actin gamma 1 pseudogene 9	pseudo
+ACTG1P10	actin gamma 1 pseudogene 10	pseudo
+ACTL6A	actin like 6A	protein-coding
+ACTN1	actinin alpha 1	protein-coding
+ACTN2	actinin alpha 2	protein-coding
+ACTN3	actinin alpha 3 (gene/pseudogene)	protein-coding
+ACVR1	activin A receptor type 1	protein-coding
+ACVR1B	activin A receptor type 1B	protein-coding
+ACVR2A	activin A receptor type 2A	protein-coding
+ACVR2B	activin A receptor type 2B	protein-coding
+ACVRL1	activin A receptor like type 1	protein-coding
+ACY1	aminoacylase 1	protein-coding
+ACYP1	acylphosphatase 1	protein-coding
+ACYP2	acylphosphatase 2	protein-coding
+ADA	adenosine deaminase	protein-coding
+ADAM8	ADAM metallopeptidase domain 8	protein-coding
+ADAM10	ADAM metallopeptidase domain 10	protein-coding
+ADAR	adenosine deaminase RNA specific	protein-coding
+ADARB1	adenosine deaminase RNA specific B1	protein-coding
+ADARB2	adenosine deaminase RNA specific B2 (inactive)	protein-coding
+ADCP1	adenosine deaminase complexing protein 1	unknown
+ADCY1	adenylate cyclase 1	protein-coding
+ADCY2	adenylate cyclase 2	protein-coding
+ADCY3	adenylate cyclase 3	protein-coding
+ADCY5	adenylate cyclase 5	protein-coding
+ADCY6	adenylate cyclase 6	protein-coding
+ADCY7	adenylate cyclase 7	protein-coding
+ADCY8	adenylate cyclase 8	protein-coding
+ADCY9	adenylate cyclase 9	protein-coding
+ADCYAP1	adenylate cyclase activating polypeptide 1	protein-coding
+ADCYAP1R1	ADCYAP receptor type I	protein-coding
+ADD1	adducin 1	protein-coding
+ADD2	adducin 2	protein-coding
+ADD3	adducin 3	protein-coding
+ADFN	albinism-deafness syndrome	unknown
+PLIN2	perilipin 2	protein-coding
+ADH1A	alcohol dehydrogenase 1A (class I), alpha polypeptide	protein-coding
+ADH1B	alcohol dehydrogenase 1B (class I), beta polypeptide	protein-coding
+ADH1C	alcohol dehydrogenase 1C (class I), gamma polypeptide	protein-coding
+ADH4	alcohol dehydrogenase 4 (class II), pi polypeptide	protein-coding
+ADH5	alcohol dehydrogenase 5 (class III), chi polypeptide	protein-coding
+ADH6	alcohol dehydrogenase 6 (class V)	protein-coding
+ADH7	alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide	protein-coding
+ADK	adenosine kinase	protein-coding
+ADM	adrenomedullin	protein-coding
+ADORA1	adenosine A1 receptor	protein-coding
+ADORA2A	adenosine A2a receptor	protein-coding
+ADORA2B	adenosine A2b receptor	protein-coding
+ADORA2BP1	adenosine A2b receptor pseudogene 1	pseudo
+ADORA3	adenosine A3 receptor	protein-coding
+ADPRH	ADP-ribosylarginine hydrolase	protein-coding
+PARP1	poly(ADP-ribose) polymerase 1	protein-coding
+PARP4	poly(ADP-ribose) polymerase family member 4	protein-coding
+PARP1P1	poly(ADP-ribose) polymerase 1 pseudogene 1	pseudo
+PARP1P2	poly(ADP-ribose) polymerase 1 pseudogene 2	pseudo
+ADRA1D	adrenoceptor alpha 1D	protein-coding
+ADRA1B	adrenoceptor alpha 1B	protein-coding
+ADRA1A	adrenoceptor alpha 1A	protein-coding
+ADRA2A	adrenoceptor alpha 2A	protein-coding
+ADRA2B	adrenoceptor alpha 2B	protein-coding
+ADRA2C	adrenoceptor alpha 2C	protein-coding
+ADRB1	adrenoceptor beta 1	protein-coding
+ADRB2	adrenoceptor beta 2	protein-coding
+ADRB3	adrenoceptor beta 3	protein-coding
+GRK2	G protein-coupled receptor kinase 2	protein-coding
+GRK3	G protein-coupled receptor kinase 3	protein-coding
+ADSL	adenylosuccinate lyase	protein-coding
+ADSS	adenylosuccinate synthase	protein-coding
+AP2A1	adaptor related protein complex 2 subunit alpha 1	protein-coding
+AP2A2	adaptor related protein complex 2 subunit alpha 2	protein-coding
+AP1B1	adaptor related protein complex 1 subunit beta 1	protein-coding
+AP2B1	adaptor related protein complex 2 subunit beta 1	protein-coding
+AP1G1	adaptor related protein complex 1 subunit gamma 1	protein-coding
+AEBP1	AE binding protein 1	protein-coding
+TLE5	TLE family member 5, transcriptional modulator	protein-coding
+CRISP1	cysteine rich secretory protein 1	protein-coding
+AF8T	AF8 temperature sensitivity complementing	unknown
+AFA	ankyloblepharon filiforme adnatum	unknown
+AFD1	acrofacial dysostosis 1, Nager type	unknown
+AFG3L1P	AFG3 like matrix AAA peptidase subunit 1, pseudogene	pseudo
+AFM	afamin	protein-coding
+AFP	alpha fetoprotein	protein-coding
+AGA	aspartylglucosaminidase	protein-coding
+ACAN	aggrecan	protein-coding
+AGER	advanced glycosylation end-product specific receptor	protein-coding
+AGL	amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase	protein-coding
+AGMX2	agammaglobulinemia, X-linked 2 (with growth hormone deficiency)	unknown
+AGRP	agouti related neuropeptide	protein-coding
+JAG1	jagged canonical Notch ligand 1	protein-coding
+AGT	angiotensinogen	protein-coding
+AGTR1	angiotensin II receptor type 1	protein-coding
+AGTR2	angiotensin II receptor type 2	protein-coding
+APLNR	apelin receptor	protein-coding
+AGXT	alanine--glyoxylate and serine--pyruvate aminotransferase	protein-coding
+NR0B1	nuclear receptor subfamily 0 group B member 1	protein-coding
+AHCY	adenosylhomocysteinase	protein-coding
+AIC	Aicardi syndrome	unknown
+AHR	aryl hydrocarbon receptor	protein-coding
+AHSG	alpha 2-HS glycoprotein	protein-coding
+AIF1	allograft inflammatory factor 1	protein-coding
+AIH3	amelogenesis imperfecta 3, hypomaturation or hypoplastic type	unknown
+CRYBG1	crystallin beta-gamma domain containing 1	protein-coding
+AK1	adenylate kinase 1	protein-coding
+AK2	adenylate kinase 2	protein-coding
+AK4	adenylate kinase 4	protein-coding
+AK4P1	adenylate kinase 4 pseudogene 1	pseudo
+AKT1	AKT serine/threonine kinase 1	protein-coding
+AKT2	AKT serine/threonine kinase 2	protein-coding
+ALAD	aminolevulinate dehydratase	protein-coding
+ALAS1	5'-aminolevulinate synthase 1	protein-coding
+ALAS2	5'-aminolevulinate synthase 2	protein-coding
+ALB	albumin	protein-coding
+ALCAM	activated leukocyte cell adhesion molecule	protein-coding
+ABCD1	ATP binding cassette subfamily D member 1	protein-coding
+ALDH1A1	aldehyde dehydrogenase 1 family member A1	protein-coding
+ALDH2	aldehyde dehydrogenase 2 family member	protein-coding
+ALDH3A1	aldehyde dehydrogenase 3 family member A1	protein-coding
+ALDH1B1	aldehyde dehydrogenase 1 family member B1	protein-coding
+ALDH1A3	aldehyde dehydrogenase 1 family member A3	protein-coding
+ALDH3B1	aldehyde dehydrogenase 3 family member B1	protein-coding
+ALDH3B2	aldehyde dehydrogenase 3 family member B2	protein-coding
+ALDH9A1	aldehyde dehydrogenase 9 family member A1	protein-coding
+ALDH3A2	aldehyde dehydrogenase 3 family member A2	protein-coding
+ABCD2	ATP binding cassette subfamily D member 2	protein-coding
+ALDOA	aldolase, fructose-bisphosphate A	protein-coding
+ALDOAP2	ALDOA pseudogene 2	pseudo
+ALDOB	aldolase, fructose-bisphosphate B	protein-coding
+ALDOC	aldolase, fructose-bisphosphate C	protein-coding
+AKR1B1	aldo-keto reductase family 1 member B	protein-coding
+AKR1B1P2	aldo-keto reductase family 1 member B1 pseudogene 2	pseudo
+ALK	ALK receptor tyrosine kinase	protein-coding
+ALOX12	arachidonate 12-lipoxygenase, 12S type	protein-coding
+ALOX5	arachidonate 5-lipoxygenase	protein-coding
+ALOX5AP	arachidonate 5-lipoxygenase activating protein	protein-coding
+ALOX12B	arachidonate 12-lipoxygenase, 12R type	protein-coding
+ALOX12P1	arachidonate 12-lipoxygenase pseudogene 1	pseudo
+ALOX12P2	arachidonate 12-lipoxygenase pseudogene 2	pseudo
+ALOX15	arachidonate 15-lipoxygenase	protein-coding
+ALOX15B	arachidonate 15-lipoxygenase type B	protein-coding
+ALPI	alkaline phosphatase, intestinal	protein-coding
+ALPL	alkaline phosphatase, biomineralization associated	protein-coding
+ALPP	alkaline phosphatase, placental	protein-coding
+ALPG	alkaline phosphatase, germ cell	protein-coding
+ALS3	amyotrophic lateral sclerosis 3 (autosomal dominant)	unknown
+ALS5	amyotrophic lateral sclerosis 5	unknown
+ALX3	ALX homeobox 3	protein-coding
+AMBN	ameloblastin	protein-coding
+AMBP	alpha-1-microglobulin/bikunin precursor	protein-coding
+AMCN	arthrogryposis multiplex congenita, neurogenic	unknown
+AMD1	adenosylmethionine decarboxylase 1	protein-coding
+AMD1P2	adenosylmethionine decarboxylase 1 pseudogene 2	pseudo
+AMELX	amelogenin X-linked	protein-coding
+AMELY	amelogenin Y-linked	protein-coding
+AMFR	autocrine motility factor receptor	protein-coding
+AMH	anti-Mullerian hormone	protein-coding
+AMHR2	anti-Mullerian hormone receptor type 2	protein-coding
+AMPD1	adenosine monophosphate deaminase 1	protein-coding
+AMPD2	adenosine monophosphate deaminase 2	protein-coding
+AMPD3	adenosine monophosphate deaminase 3	protein-coding
+AMPH	amphiphysin	protein-coding
+BIN1	bridging integrator 1	protein-coding
+AMT	aminomethyltransferase	protein-coding
+AMY1A	amylase alpha 1A (salivary)	protein-coding
+AMY1B	amylase alpha 1B (salivary)	protein-coding
+AMY1C	amylase alpha 1C (salivary)	protein-coding
+AMY2A	amylase alpha 2A (pancreatic)	protein-coding
+AMY2B	amylase alpha 2B (pancreatic)	protein-coding
+AMYP1	amylase alpha pseudogene 1	pseudo
+ANCR	Angelman syndrome chromosome region	other
+ANG	angiogenin	protein-coding
+ANGPT1	angiopoietin 1	protein-coding
+ANGPT2	angiopoietin 2	protein-coding
+ANK1	ankyrin 1	protein-coding
+ANK2	ankyrin 2	protein-coding
+ANK3	ankyrin 3	protein-coding
+ANOP1	anophthalmos 1 (with mental retardation, without limb anomalies or dental or urogenital abnormalities)	unknown
+ANPEP	alanyl aminopeptidase, membrane	protein-coding
+SLC25A4	solute carrier family 25 member 4	protein-coding
+SLC25A5	solute carrier family 25 member 5	protein-coding
+SLC25A6	solute carrier family 25 member 6	protein-coding
+ANXA1	annexin A1	protein-coding
+ANXA2	annexin A2	protein-coding
+ANXA2P1	annexin A2 pseudogene 1	pseudo
+ANXA2P2	annexin A2 pseudogene 2	pseudo
+ANXA2P3	annexin A2 pseudogene 3	pseudo
+ANXA3	annexin A3	protein-coding
+ANXA4	annexin A4	protein-coding
+ANXA5	annexin A5	protein-coding
+ANXA6	annexin A6	protein-coding
+ANXA7	annexin A7	protein-coding
+ANXA11	annexin A11	protein-coding
+ANXA13	annexin A13	protein-coding
+AOAH	acyloxyacyl hydrolase	protein-coding
+AOC2	amine oxidase copper containing 2	protein-coding
+AOX1	aldehyde oxidase 1	protein-coding
+APAF1	apoptotic peptidase activating factor 1	protein-coding
+NUDT2	nudix hydrolase 2	protein-coding
+APOF	apolipoprotein F	protein-coding
+APBA1	amyloid beta precursor protein binding family A member 1	protein-coding
+APBA2	amyloid beta precursor protein binding family A member 2	protein-coding
+APBB1	amyloid beta precursor protein binding family B member 1	protein-coding
+APBB2	amyloid beta precursor protein binding family B member 2	protein-coding
+APC	APC regulator of WNT signaling pathway	protein-coding
+APCS	amyloid P component, serum	protein-coding
+AIRE	autoimmune regulator	protein-coding
+APEH	acylaminoacyl-peptide hydrolase	protein-coding
+APEX1	apurinic/apyrimidinic endodeoxyribonuclease 1	protein-coding
+BIRC2	baculoviral IAP repeat containing 2	protein-coding
+BIRC3	baculoviral IAP repeat containing 3	protein-coding
+XIAP	X-linked inhibitor of apoptosis	protein-coding
+BIRC5	baculoviral IAP repeat containing 5	protein-coding
+APLP1	amyloid beta precursor like protein 1	protein-coding
+APLP2	amyloid beta precursor like protein 2	protein-coding
+APOA1	apolipoprotein A1	protein-coding
+APOA2	apolipoprotein A2	protein-coding
+APOA4	apolipoprotein A4	protein-coding
+APOB	apolipoprotein B	protein-coding
+APOBEC1	apolipoprotein B mRNA editing enzyme catalytic subunit 1	protein-coding
+APOC1	apolipoprotein C1	protein-coding
+APOC1P1	apolipoprotein C1 pseudogene 1	pseudo
+AQP8	aquaporin 8	protein-coding
+APOC2	apolipoprotein C2	protein-coding
+APOC3	apolipoprotein C3	protein-coding
+APOC4	apolipoprotein C4	protein-coding
+APOD	apolipoprotein D	protein-coding
+APOE	apolipoprotein E	protein-coding
+APOH	apolipoprotein H	protein-coding
+APP	amyloid beta precursor protein	protein-coding
+APRT	adenine phosphoribosyltransferase	protein-coding
+KLK3	kallikrein related peptidase 3	protein-coding
+FAS	Fas cell surface death receptor	protein-coding
+FASLG	Fas ligand	protein-coding
+SHROOM2	shroom family member 2	protein-coding
+AQP1	aquaporin 1 (Colton blood group)	protein-coding
+AQP2	aquaporin 2	protein-coding
+AQP3	aquaporin 3 (Gill blood group)	protein-coding
+AQP4	aquaporin 4	protein-coding
+AQP5	aquaporin 5	protein-coding
+AQP6	aquaporin 6	protein-coding
+AQP7	aquaporin 7	protein-coding
+AQP9	aquaporin 9	protein-coding
+AR	androgen receptor	protein-coding
+ABCC6	ATP binding cassette subfamily C member 6	protein-coding
+ARAF	A-Raf proto-oncogene, serine/threonine kinase	protein-coding
+ARCN1	archain 1	protein-coding
+TRIM23	tripartite motif containing 23	protein-coding
+AREG	amphiregulin	protein-coding
+ARF1	ADP ribosylation factor 1	protein-coding
+ARF3	ADP ribosylation factor 3	protein-coding
+ARF4	ADP ribosylation factor 4	protein-coding
+ARL4D	ADP ribosylation factor like GTPase 4D	protein-coding
+ARF4P1	ADP ribosylation factor 4 pseudogene 1	pseudo
+ARF5	ADP ribosylation factor 5	protein-coding
+ARF6	ADP ribosylation factor 6	protein-coding
+ARG1	arginase 1	protein-coding
+ARG2	arginase 2	protein-coding
+RHOA	ras homolog family member A	protein-coding
+RHOB	ras homolog family member B	protein-coding
+RHOC	ras homolog family member C	protein-coding
+RND3	Rho family GTPase 3	protein-coding
+RHOG	ras homolog family member G	protein-coding
+ARHGAP1	Rho GTPase activating protein 1	protein-coding
+ARHGAP4	Rho GTPase activating protein 4	protein-coding
+ARHGAP5	Rho GTPase activating protein 5	protein-coding
+ARHGAP6	Rho GTPase activating protein 6	protein-coding
+ARHGDIA	Rho GDP dissociation inhibitor alpha	protein-coding
+ARHGDIB	Rho GDP dissociation inhibitor beta	protein-coding
+ARHGDIG	Rho GDP dissociation inhibitor gamma	protein-coding
+RHOH	ras homolog family member H	protein-coding
+ARL1	ADP ribosylation factor like GTPase 1	protein-coding
+PHOX2A	paired like homeobox 2A	protein-coding
+ARL2	ADP ribosylation factor like GTPase 2	protein-coding
+ARL3	ADP ribosylation factor like GTPase 3	protein-coding
+ARNT	aryl hydrocarbon receptor nuclear translocator	protein-coding
+ARNTL	aryl hydrocarbon receptor nuclear translocator like	protein-coding
+ARR3	arrestin 3	protein-coding
+ARRB1	arrestin beta 1	protein-coding
+ARRB2	arrestin beta 2	protein-coding
+ARSA	arylsulfatase A	protein-coding
+ARSB	arylsulfatase B	protein-coding
+STS	steroid sulfatase	protein-coding
+ARSC2	arylsulfatase C, isozyme F	unknown
+ARSD	arylsulfatase D	protein-coding
+ARSE	arylsulfatase E	protein-coding
+ARSF	arylsulfatase F	protein-coding
+ART1	ADP-ribosyltransferase 1	protein-coding
+ART2P	ADP-ribosyltransferase 2, pseudogene	pseudo
+ART3	ADP-ribosyltransferase 3	protein-coding
+ART4	ADP-ribosyltransferase 4 (Dombrock blood group)	protein-coding
+ARVCF	ARVCF delta catenin family member	protein-coding
+ARVD3	arrhythmogenic right ventricular dysplasia 3	unknown
+ARVD4	arrhythmogenic right ventricular dysplasia 4	unknown
+ASAH1	N-acylsphingosine amidohydrolase 1	protein-coding
+ASCL1	achaete-scute family bHLH transcription factor 1	protein-coding
+ASCL2	achaete-scute family bHLH transcription factor 2	protein-coding
+ASD1	atrial septal defect 1	unknown
+ASGR1	asialoglycoprotein receptor 1	protein-coding
+ASGR2	asialoglycoprotein receptor 2	protein-coding
+ASIP	agouti signaling protein	protein-coding
+ASL	argininosuccinate lyase	protein-coding
+ASLP1	argininosuccinate lyase pseudogene 1	pseudo
+ASMT	acetylserotonin O-methyltransferase	protein-coding
+ASNA1	arsA arsenite transporter, ATP-binding, homolog 1 (bacterial)	protein-coding
+ASNS	asparagine synthetase (glutamine-hydrolyzing)	protein-coding
+ASNSP2	asparagine synthetase pseudogene 2	pseudo
+ASPA	aspartoacylase	protein-coding
+ASPH	aspartate beta-hydroxylase	protein-coding
+ASS1	argininosuccinate synthase 1	protein-coding
+ASS1P2	argininosuccinate synthetase 1 pseudogene 2	pseudo
+ASS1P4	argininosuccinate synthetase 1 pseudogene 4	pseudo
+ASS1P5	argininosuccinate synthetase 1 pseudogene 5	pseudo
+ASS1P6	argininosuccinate synthetase 1 pseudogene 6	pseudo
+ASS1P8	argininosuccinate synthetase 1 pseudogene 8	pseudo
+ASS1P9	argininosuccinate synthetase 1 pseudogene 9	pseudo
+ASS1P10	argininosuccinate synthetase 1 pseudogene 10	pseudo
+ASS1P14	argininosuccinate synthetase 1 pseudogene 14	pseudo
+ASTN1	astrotactin 1	protein-coding
+SERPINC1	serpin family C member 1	protein-coding
+ZFHX3	zinc finger homeobox 3	protein-coding
+ATD	asphixiating thoracic dystrophy (chondroectodermal dysplasia-like syndrome)	unknown
+ATF1	activating transcription factor 1	protein-coding
+ATF3	activating transcription factor 3	protein-coding
+ATF4	activating transcription factor 4	protein-coding
+ATF4P1	activating transcription factor 4 pseudogene 1	pseudo
+ATHS	atherosclerosis susceptibility (lipoprotein associated)	unknown
+ATIC	5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase	protein-coding
+ATM	ATM serine/threonine kinase	protein-coding
+RERE	arginine-glutamic acid dipeptide repeats	protein-coding
+ATOH1	atonal bHLH transcription factor 1	protein-coding
+ATOX1	antioxidant 1 copper chaperone	protein-coding
+ATP1A1	ATPase Na+/K+ transporting subunit alpha 1	protein-coding
+ATP1A2	ATPase Na+/K+ transporting subunit alpha 2	protein-coding
+ATP1A3	ATPase Na+/K+ transporting subunit alpha 3	protein-coding
+ATP12A	ATPase H+/K+ transporting non-gastric alpha2 subunit	protein-coding
+ATP1A4	ATPase Na+/K+ transporting subunit alpha 4	protein-coding
+ATP1B1	ATPase Na+/K+ transporting subunit beta 1	protein-coding
+ATP1B2	ATPase Na+/K+ transporting subunit beta 2	protein-coding
+ATP1B3	ATPase Na+/K+ transporting subunit beta 3	protein-coding
+ATP1B3P1	ATPase Na+/K+ transporting subunit beta 3 pseudogene 1	pseudo
+ATP1B1P1	ATPase Na+/K+ transporting subunit beta 1 pseudogene 1	pseudo
+FXYD2	FXYD domain containing ion transport regulator 2	protein-coding
+ATP2A1	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1	protein-coding
+ATP2A2	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2	protein-coding
+ATP2A3	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3	protein-coding
+ATP2B1	ATPase plasma membrane Ca2+ transporting 1	protein-coding
+ATP2B2	ATPase plasma membrane Ca2+ transporting 2	protein-coding
+ATP2B3	ATPase plasma membrane Ca2+ transporting 3	protein-coding
+ATP2B4	ATPase plasma membrane Ca2+ transporting 4	protein-coding
+ATP4A	ATPase H+/K+ transporting subunit alpha	protein-coding
+ATP4B	ATPase H+/K+ transporting subunit beta	protein-coding
+ATP5F1A	ATP synthase F1 subunit alpha	protein-coding
+ALDH7A1	aldehyde dehydrogenase 7 family member A1	protein-coding
+ATP5F1AP2	ATP synthase F1 subunit alpha pseudogene 2	pseudo
+ATP5F1B	ATP synthase F1 subunit beta	protein-coding
+ATP5F1BP1	ATP synthase F1 subunit beta pseudogene 1	pseudo
+ATP5F1C	ATP synthase F1 subunit gamma	protein-coding
+ATP5F1D	ATP synthase F1 subunit delta	protein-coding
+ATP5F1E	ATP synthase F1 subunit epsilon	protein-coding
+ATP5PB	ATP synthase peripheral stalk-membrane subunit b	protein-coding
+ATP5MC1	ATP synthase membrane subunit c locus 1	protein-coding
+ATP5MC2	ATP synthase membrane subunit c locus 2	protein-coding
+ATP5MC3	ATP synthase membrane subunit c locus 3	protein-coding
+ATP5MC2P1	ATP synthase membrane subunit c locus 2 pseudogene 1	pseudo
+ATP5ME	ATP synthase membrane subunit e	protein-coding
+ATP5PF	ATP synthase peripheral stalk subunit F6	protein-coding
+ATP6V1A	ATPase H+ transporting V1 subunit A	protein-coding
+ATP6V1B1	ATPase H+ transporting V1 subunit B1	protein-coding
+ATP6V1B2	ATPase H+ transporting V1 subunit B2	protein-coding
+ATP6V0C	ATPase H+ transporting V0 subunit c	protein-coding
+ATP6V1C1	ATPase H+ transporting V1 subunit C1	protein-coding
+ATP6V1E1	ATPase H+ transporting V1 subunit E1	protein-coding
+ATP6V0B	ATPase H+ transporting V0 subunit b	protein-coding
+ATP6V1G2	ATPase H+ transporting V1 subunit G2	protein-coding
+ATP6V0A1	ATPase H+ transporting V0 subunit a1	protein-coding
+ATP6AP1	ATPase H+ transporting accessory protein 1	protein-coding
+ATP7A	ATPase copper transporting alpha	protein-coding
+ATP5PO	ATP synthase peripheral stalk subunit OSCP	protein-coding
+ATP7B	ATPase copper transporting beta	protein-coding
+ALDH7A1P1	aldehyde dehydrogenase 7 family member A1 pseudogene 1	pseudo
+ALDH7A1P2	aldehyde dehydrogenase 7 family member A1 pseudogene 2	pseudo
+ALDH7A1P3	aldehyde dehydrogenase 7 family member A1 pseudogene 3	pseudo
+ALDH7A1P4	aldehyde dehydrogenase 7 family member A1 pseudogene 4	pseudo
+ATR	ATR serine/threonine kinase	protein-coding
+ATRX	ATRX chromatin remodeler	protein-coding
+KIF1A	kinesin family member 1A	protein-coding
+AUH	AU RNA binding methylglutaconyl-CoA hydratase	protein-coding
+AUP1	AUP1 lipid droplet regulating VLDL assembly factor	protein-coding
+AVP	arginine vasopressin	protein-coding
+AVPR1A	arginine vasopressin receptor 1A	protein-coding
+AVPR1B	arginine vasopressin receptor 1B	protein-coding
+AVPR2	arginine vasopressin receptor 2	protein-coding
+AXL	AXL receptor tyrosine kinase	protein-coding
+AZF1	azoospermia factor 1	unknown
+AZGP1	alpha-2-glycoprotein 1, zinc-binding	protein-coding
+AZU1	azurocidin 1	protein-coding
+B2M	beta-2-microglobulin	protein-coding
+B2MR	beta-2-microglobulin regulator	unknown
+BAAT	bile acid-CoA:amino acid N-acyltransferase	protein-coding
+BACH1	BTB domain and CNC homolog 1	protein-coding
+BAD	BCL2 associated agonist of cell death	protein-coding
+BAG1	BCL2 associated athanogene 1	protein-coding
+BAGE	B melanoma antigen	protein-coding
+ADGRB1	adhesion G protein-coupled receptor B1	protein-coding
+ADGRB2	adhesion G protein-coupled receptor B2	protein-coding
+ADGRB3	adhesion G protein-coupled receptor B3	protein-coding
+BAK1	BCL2 antagonist/killer 1	protein-coding
+NKX3-2	NK3 homeobox 2	protein-coding
+BARD1	BRCA1 associated RING domain 1	protein-coding
+BAX	BCL2 associated X, apoptosis regulator	protein-coding
+BBS1	Bardet-Biedl syndrome 1	protein-coding
+BBS2	Bardet-Biedl syndrome 2	protein-coding
+BBS4	Bardet-Biedl syndrome 4	protein-coding
+BCAT1	branched chain amino acid transaminase 1	protein-coding
+BCAT2	branched chain amino acid transaminase 2	protein-coding
+BCHE	butyrylcholinesterase	protein-coding
+BCKDHA	branched chain keto acid dehydrogenase E1 subunit alpha	protein-coding
+BCKDHB	branched chain keto acid dehydrogenase E1 subunit beta	protein-coding
+CCND1	cyclin D1	protein-coding
+BCL2	BCL2 apoptosis regulator	protein-coding
+BCL2A1	BCL2 related protein A1	protein-coding
+BCL2L1	BCL2 like 1	protein-coding
+BCL2L2	BCL2 like 2	protein-coding
+BAK1P1	BCL2 antagonist/killer 1 pseudogene 1	pseudo
+BAK1P2	BCL2 antagonist/killer 1 pseudogene 2	pseudo
+BCL3	BCL3 transcription coactivator	protein-coding
+BCL5	B cell CLL/lymphoma 5	unknown
+BCL6	BCL6 transcription repressor	protein-coding
+BCL7A	BAF chromatin remodeling complex subunit BCL7A	protein-coding
+NBEAP1	neurobeachin pseudogene 1	pseudo
+BCL9	BCL9 transcription coactivator	protein-coding
+TNFRSF17	TNF receptor superfamily member 17	protein-coding

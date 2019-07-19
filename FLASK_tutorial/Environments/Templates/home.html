@@ -1,0 +1,49 @@
+{% extends "layout.html" %}
+{% block content %}
+  <p> Hey! Welcome to the Neo4j D3 Visualization Flask App.</p>
+  <p><b>Select the Node or Relationship below which you want to visualize.</b></p>
+<div class = "node">  	
+<div class="dropdown show">
+  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Nodes
+  </a>
+
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+    <a class="dropdown-item" href="#">DRUG</a>
+    <a class="dropdown-item" href="#">DISEASE</a>
+    <a class="dropdown-item" href="#">GENE</a>
+    <a class="dropdown-item" href="#">PHYSIOLOGY</a>
+    <a class="dropdown-item" href="#">PATHWAY</a>
+    <a class="dropdown-item" href="#">SIDEEFFECT</a>
+    <a class="dropdown-item" href="#">TARGET</a>
+  </div>
+</div>
+</div>
+
+<div class = "relationship">
+<div class="dropdown show">
+  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Relationship
+  </a>
+
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+    <a class="dropdown-item" href="#">dr_dr</a>
+    <a class="dropdown-item" href="#">dr_ph</a>
+    <a class="dropdown-item" href="#">dr_se</a>
+    <a class="dropdown-item" href="#">gn_ds</a>
+  </div>
+</div>
+</div>
+
+<input type="button" class="btn btn-info" value="Get Visualization" onclick=" relocate_home()">
+
+<script>
+function relocate_home()
+{
+     location.href = "http://127.0.0.1:5000/login";
+
+} 
+</script>
+
+
+{% endblock content %}    
