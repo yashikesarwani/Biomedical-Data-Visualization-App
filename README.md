@@ -33,15 +33,15 @@ py2neo <br>
 
 # Procedure for the setup of virtual environment
 
-pip install virtualenv
-mkdir Environments              #let say you make a folder named Environments
-cd Environments                 #(to go to the folder you made)
-ls                              #to check your folder has been created
-project_1\Scripts\activate      #check if there is another command for linux like it may be (source project_1/bin/activate)
+pip install virtualenv<br>
+mkdir Environments              #let say you make a folder named Environments<br>
+cd Environments                 #(to go to the folder you made)<br>
+ls                              #to check your folder has been created<br>
+project_1\Scripts\activate      #check if there is another command for linux like it may be (source project_1/bin/activate)<br>
 
-then import all the modules mentioned above using command "pip install modulename"
+then import all the modules mentioned above using command "pip install modulename"<br>
 
-#make sure your neo4j server is open and the knowledge graph is running on that and before that change the neo4jusername and password according to your setup.
+#make sure your neo4j server is open and the knowledge graph is running on that and before that change the neo4jusername and password according to your setup.<br>
 
 #For running knowledge graph make sure you provide the required dataset and empty csv files as per the coding requirement and neo4j server setup is done properly.
 then run the python file "python flaskblog.py"
