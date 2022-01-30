@@ -20,14 +20,14 @@
 
 # How to run the Project ?
 
-numpy==1.16.4
-psutil==5.6.2
-pytz==2019.1
-flask
-forms
-neo4jrestclient
-selenium
-py2neo
+numpy==1.16.4 <br>
+psutil==5.6.2 <br>
+pytz==2019.1 <br>
+flask <br>
+forms <br>
+neo4jrestclient <br>
+selenium <br>
+py2neo <br>
 
 #all these modules should be imported in your virtual environment
 
