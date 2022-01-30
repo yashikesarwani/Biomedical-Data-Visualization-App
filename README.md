@@ -34,10 +34,10 @@ py2neo <br>
 # Procedure for the setup of virtual environment
 
 pip install virtualenv<br>
-mkdir Environments              #let say you make a folder named Environments<br>
-cd Environments                 #(to go to the folder you made)<br>
-ls                              #to check your folder has been created<br>
-project_1\Scripts\activate      #check if there is another command for linux like it may be (source project_1/bin/activate)<br>
+mkdir Environments       <pre><pre><pre><pre>       #let say you make a folder named Environments<br>
+cd Environments  <pre><pre><pre><pre>               #(to go to the folder you made)<br>
+ls              <pre><pre><pre><pre>                #to check your folder has been created<br>
+project_1\Scripts\activate <pre><pre><pre><pre>     #check if there is another command for linux like it may be (source project_1/bin/activate)<br>
 
 then import all the modules mentioned above using command "pip install modulename"<br>
 
